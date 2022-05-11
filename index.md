@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Nelson Kiyoshi Kossuga
 
-You can use the [editor on GitHub](https://github.com/5Daydreams/5Daydreams.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a programmer with experience in Unity, C#, HLSL
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
