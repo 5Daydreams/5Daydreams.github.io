@@ -1,8 +1,8 @@
 ## Nelson Kiyoshi Kossuga
 
-I am a programmer with experience in Unity, C#, HLSL
+I am a programmer with interest in computer geometry, shaders, openGL and GPU-related topics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have a bit over three years of experience with Unity and C#. [Here is one of my solo projects](https://github.com/5Daydreams/SnakeGameAlgorithms), it is a snake game in 3D with flight movement.
 
 ### Markdown
 
