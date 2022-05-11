@@ -4,7 +4,7 @@ I am a programmer with interest in computer geometry, shaders, openGL and GPU-re
 
 I have 3+ years of experience with Unity C# and HLSL. [Here is one of my solo projects](https://github.com/5Daydreams/SnakeGameAlgorithms), it is a snake game in 3D with flight movement.
 
-I have also been studying a lot about rendering with GPU and rendering by primitives and shaders on my free time. This is what I am currently experimenting with: [fancy.link](https://github.com/5Daydreams/StudiesOpenGL)
+I have also been studying a lot about rendering with GPU and rendering by primitives and shaders on my free time. [This](https://github.com/5Daydreams/StudiesOpenGL) is what I am currently experimenting with.
 
 ### Markdown
 
