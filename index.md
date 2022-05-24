@@ -8,6 +8,9 @@ I have 3+ years of experience with Unity-C# and HLSL. [Here](https://github.com/
 
 ![2kM32qJZGf](https://user-images.githubusercontent.com/49330163/170142698-15fc08ef-180b-4ed7-9849-2e5125c997e1.gif)
 
+These are some of the shaders I worked on with Unity:
+
+![pM7uBIVVNV](https://user-images.githubusercontent.com/49330163/170143940-43665fe4-840a-4760-9147-b8d14f7c5537.gif)
 
 I have also been studying a lot about rendering with openGL on my free time. [This](https://github.com/5Daydreams/StudiesOpenGL) is what I am currently experimenting with.
 
