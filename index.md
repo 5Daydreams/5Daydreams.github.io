@@ -2,9 +2,9 @@
 
 I am a programmer with a deep interest in computer geometry, shader coding, openGL and other graphics-related topics. 
 
-I worked for a little over a year in Double Dash Studios, from Rio de Janeiro - I developed my understanding of programming at a fast pace during my days there thanks to the great training and mentorships with my coworkers. I later enrolled into Futuregames (FG 21 autumn) and I am planning to graduate by 2023. 
+I worked for a little over a year in Double Dash Studios, from Rio de Janeiro - I improved my understanding of programming at a fast pace during my days there thanks to the great training and tutoring from my coworkers. I later enrolled into Futuregames (FG 21 autumn) and I will be graduating in the spring of 2023. 
 
-With my prior experience I can safely work with Agile/Scrum teams, I also have 3+ years of experience with Unity-C#, around 2 years of HLSL, around 1 year worth of C++ but I am rapidly learning more thanks to my studies on openGL, which I started around march of this year (2022).
+With my prior experience I can comfortably work with Agile/Scrum teams, I have 3+ years of experience with Unity-C#, 2 years of HLSL, around 1 year worth of C++ but I am rapidly improving due to studying openGL, which I started around march of this year (2022). I also know the fundamentals of working with git, including gitflow.
 
 
 ## Shaders made in Unity's Legacy Pipeline:
