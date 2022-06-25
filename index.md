@@ -1,4 +1,6 @@
-## Nelson Kiyoshi Kossuga
+# Nelson Kiyoshi Kossuga
+
+## About me
 
 I am a programmer with a deep interest in computer geometry, shader coding, openGL and other graphics-related topics. 
 
