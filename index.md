@@ -2,9 +2,9 @@
 title : Nelson Kiyoshi Kossuga
 ---
 
-## About me
+Nice to meet you! I am a games programmer with a deep interest in computer geometry, shader coding, openGL and other graphics-related topics.
 
-I am a programmer with a deep interest in computer geometry, shader coding, openGL and other graphics-related topics. 
+## About my work experience:
 
 I worked for a little over a year in Double Dash Studios, an indie studio from Rio de Janeiro - I improved my understanding of programming at a fast pace during my days there thanks to the great training and tutoring from my coworkers. I later enrolled into Futuregames (FG 21 fall-term) and I will be graduating in the spring of 2023.
 
