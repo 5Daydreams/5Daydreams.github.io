@@ -7,8 +7,8 @@
 
 # Site Settings
 
-theme: jekyll-theme-cayman
-title: "Nelson Kiyoshi Kossuga"
-title_separator          : "-"
-name                     : &name "Nelson Kiyoshi Kossuga"
-description: &description "Games Programmer, Graphics Enthusiast"
+theme              : jekyll-theme-cayman
+title              : "Nelson Kiyoshi Kossuga"
+title_separator    : "-"
+name               : "Nelson Kiyoshi Kossuga"
+description        : "Games Programmer, Graphics Enthusiast"
