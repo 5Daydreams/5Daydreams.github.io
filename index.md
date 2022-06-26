@@ -25,6 +25,8 @@ I have 3+ years of experience with Unity-C# - both 2D and 3D, as well as 2 years
 
 [And this was a project from back in 2021](https://github.com/5Daydreams/GridMaze) where I was studying procedural generation for mazes. At the time I was relatively inexperienced, but this was one of the first games I managed to work on from start to finish.
 
+![hF4YdSdGMT](https://user-images.githubusercontent.com/49330163/175815851-821c93df-2880-4279-9e76-b3481158dd87.gif)
+
 [Here](https://github.com/5Daydreams/ProceduralGeometryUnity) are some of my studies on Procedural Geometry with Unity. 
 I really enjoy working on these objects, but I have never used them in my games. I really appreciate how closely related this type of code is to graphics programming "from scratch", but it is usually an overly complicated method to getting symmetrical art assets.
 
