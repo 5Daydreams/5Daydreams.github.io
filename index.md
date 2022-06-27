@@ -10,10 +10,15 @@ I worked for a little over a year in Double Dash Studios, an indie studio from R
 
 With my prior experience I can comfortably work with Agile/Scrum teams, I also know how to work with git GUI's, including using gitflow for branching and merging - but I am by far not a master in version control.
 
+I have 3+ years of experience with Unity-C# - both 2D and 3D, as well as 2 years of shaderlab experience, both within shadergraph and HLSL - while I am more used to the legacy render pipeline, I can work just as comfortably with URP. I have worked on procedural mesh generation and in basic development tools with Unity-C#, such as object placement and custom inspector windows. I usually connect my scripts through event-driven architectures for their simplicity and flexibility in Unity's editor.
+
+I have around 1 year of C++ experience, which recently became my main language and the one I'm using to study openGL, a journey which I started around march of 2022. I aim to have a simple 3D game which runs with my graphics library before the end of this year (2022).
+
+I have also worked with Unreal Engine (both UE 4 and 5) for little less than a year, using both the Material Editor's shader nodes and Niagara Systems for technical art assets, with the support of the Blueprint System. I currently consider myself slower at handling C++ code made for Unreal due to my inexperience with the engine's features - but I can also produce C++ code.
+
+Below you'll find links and visual references for some of the projects I have worked on.
 
 ## Unity
-
-I have 3+ years of experience with Unity-C# - both 2D and 3D, as well as 2 years of shaderlab experience, both within shadergraph and HLSL - while I am more used to the legacy render pipeline, I can work just as comfortably with URP. I have worked on procedural mesh generation and in basic development tools with Unity-C#, such as object placement and custom inspector windows. I usually connect my scripts through event-driven architectures for their simplicity and flexibility in Unity's editor.
 
 [Here](https://github.com/5Daydreams/SnakeGameAlgorithms) is a solo project I tinkered with during my time in Futuregames - it is a 3D snake game with flying movement, the objective being to survive as long as possible while avoiding the ever increasing asteroids in a closed arena.
 
@@ -59,8 +64,6 @@ During my early experiments with Vertex shading I was able to get this wave effe
 
 ## Studies on low-level rendering with OpenGL and C++
 
-I have around 1 year of C++ experience, which recently became my main language and the one I'm using to study openGL, a journey which I started around march of 2022. I aim to have a simple 3D game which runs with my graphics library before the end of this year (2022).
-
 [This](https://github.com/5Daydreams/StudiesOpenGL) is what I am currently experimenting with my rendering and openGL studies. 
 
 ![utalfHr4lt](https://user-images.githubusercontent.com/49330163/170142724-68b3aaed-7181-4514-a576-395abde7de5d.gif)
@@ -69,8 +72,6 @@ I have around 1 year of C++ experience, which recently became my main language a
 
 
 ## Unreal Engine
-
-I have also worked with Unreal Engine (both UE 4 and 5) for little less than a year, using both the Material Editor's shader nodes and Niagara Systems for technical art assets, with the support of the Blueprint System. I currently consider myself slower at handling C++ code made for Unreal due to my inexperience with the engine's features - but I can also produce C++ code.
 
 ## Miscellaneous
 
