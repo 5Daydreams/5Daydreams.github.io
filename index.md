@@ -71,8 +71,6 @@ During my early experiments with Vertex shading I was able to get this wave effe
 ![image](https://user-images.githubusercontent.com/49330163/175815899-4f59c818-ce84-47ff-a28f-44938e94b6cd.png)
 
 
-## Unreal Engine
-
 ## Miscellaneous
 
 [Here are some of the things I made with Processing](https://github.com/5Daydreams/processing-procedural):
