@@ -71,6 +71,44 @@ During my early experiments with Vertex shading I was able to get this wave effe
 ![image](https://user-images.githubusercontent.com/49330163/175815899-4f59c818-ce84-47ff-a28f-44938e94b6cd.png)
 
 
+## Unreal Engine
+
+This is from my 3rd group project in Futuregames, I worked on both the water heightmap and shaders to have the player move along the waves with custom water physics. While I did not implement the physics system directly, I did help with the math and calculations for said system.
+
+![5GfLAh7QNe](https://user-images.githubusercontent.com/49330163/180613671-05b1983d-801d-4660-a94e-8ad2efbe2b49.gif)
+
+I also worked on these caustics, which are triplanar mapped and applied into the bottom of our game's seabed with a decal.
+
+![VetxUdiKmK](https://user-images.githubusercontent.com/49330163/180613749-dd91e9cf-82bf-459b-940a-0293619d33e8.gif)
+
+And this is an earlier version of the water, before implementing proper transparency and foam.
+
+![kQb667MUtF](https://user-images.githubusercontent.com/49330163/180613858-ca9d798b-0728-43bf-936b-18a2e12c18ca.gif)
+
+The wave shapes which you see are not Gerstner waves, I had to do some approximations to get the same vertical motion of the Gerstner waves but without the horizontal displacement, because we couldn't figure out a proper way to read the heightmap with the horizontal displacement from the Gerstner Waves. 
+
+[This is the math I came up with](https://www.desmos.com/calculator/tht7i3rugm) for our game. I don't know if it has a proper mathematical name, but I coined these as "Lorentzian Waves" since it uses a pattern similar to the Lorentzian distribution (it looks like a Gaussian distribution, minus the fancy properties).
+
+Now these are some personal side-projects I made when I started learning Unreal: 
+
+These Galaxies and bubbles are made from Niagara Systems, I also made the shaders for the particles by myself.
+
+![uthE5zguI1](https://user-images.githubusercontent.com/49330163/180614197-7816c345-f9f3-4a09-936d-190d47dd1fb8.gif)
+![jGQN1B6gAM](https://user-images.githubusercontent.com/49330163/180614204-cc14141a-330b-4ffe-abe7-687684e35433.gif)
+
+I was also very curious and played a little bit with the refraction option from Unreal's material editor to achieve this "magic fog wall". 
+
+![PL6Jti5ruu](https://user-images.githubusercontent.com/49330163/180614214-78d3c0d0-b70a-4edd-8d0f-b3ca36b9cb3a.gif)
+
+I then worked on spawning a "particle" as the distortion when you try to go through the wall
+
+![DnspQqkz82](https://user-images.githubusercontent.com/49330163/180614438-f9982998-17a1-4c72-97de-136bc287cb06.gif)
+
+I also worked a little on some tutorials on applying raindrops, water ripples and moisture for static objects.
+
+![6dqWnAe3g8](https://user-images.githubusercontent.com/49330163/180614222-5763f2fe-8145-43fb-b4b6-45c7a217b617.gif)
+
+
 ## Miscellaneous
 
 [Here are some of the things I made with Processing](https://github.com/5Daydreams/processing-procedural):
